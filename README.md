@@ -14,7 +14,7 @@ Pull requests are welcome. Enjoy!
 6. [ Altering Table Queries.](#alter)
 
 <a name="find"></a>
-# 1. Finding Data Queries
+# 1. Finding Data Queries using SQL Commands
 
 ### **SELECT**: used to select data from a database
 * `SELECT` * `FROM` table_name;
